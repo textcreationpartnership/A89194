@@ -1,0 +1,1403 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christmas, the Christians grand feast: its original, growth, and observation, also of Easter, Whitsontide, and other holydayes modestly discussed and determined. Also the beginning of the yeare, and other things observable. Where also among other learned men, you have the judgment of those eminent men; Josephus Scaliger, Rodulphus Hospinian, Matthæus Beroaldus, Joh. Causabon, Doct. Fulk, M. Cartwright, Alsted, Hugh Broughton, Master Mead. / By Thomas Mocket; sometimes of Queens Colledge in Cambridge, and Mr. of Arts in both the Universities; and now pastor of Gildeston in Hartfordshire. Novemb. 26, 1650. Imprimatur, Edm. Calamy.</title>
+            <author>Mocket, Thomas, 1602-1670?.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89194</idno>
+            <idno type="STC">Wing M2304</idno>
+            <idno type="STC">Thomason E619_4</idno>
+            <idno type="STC">ESTC R202886</idno>
+            <idno type="EEBO-CITATION">99863025</idno>
+            <idno type="RLIN">99863025</idno>
+            <idno type="VID">115207</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115207)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E619[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christmas, the Christians grand feast: its original, growth, and observation, also of Easter, Whitsontide, and other holydayes modestly discussed and determined. Also the beginning of the yeare, and other things observable. Where also among other learned men, you have the judgment of those eminent men; Josephus Scaliger, Rodulphus Hospinian, Matthæus Beroaldus, Joh. Causabon, Doct. Fulk, M. Cartwright, Alsted, Hugh Broughton, Master Mead. / By Thomas Mocket; sometimes of Queens Colledge in Cambridge, and Mr. of Arts in both the Universities; and now pastor of Gildeston in Hartfordshire. Novemb. 26, 1650. Imprimatur, Edm. Calamy.</title>
+                  <author>Mocket, Thomas, 1602-1670?.</author>
+                  <author>Scaliger, Joseph Juste, 1540-1609.</author>
+                  <author>Hospinian, Rudolf, 1547-1626.</author>
+                  <author>Beroald, Matthieu, d. 1576.</author>
+                  <author>Fulke, William, 1538-1589.</author>
+                  <author>Alsted, Johann Heinrich, 1588-1638.</author>
+                  <author>Broughton, Hugh, 1549-1612.</author>
+                  <author>Cartwright, Thomas, 1535-1603.</author>
+                  <author>Mede, Joseph, 1586-1638.</author>
+                  <author>Casaubon, Isaac, 1559-1614.</author>
+               </titleStmt>
+               <extent>[2], 25, [1] p. ;   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Wodenoth at the Star under Peters Church in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec. 6 1650", the 51 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holidays --  Early works to 1800.</term>
+               <term>Fasts and feasts --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115207:1" rendition="simple:additions"/>
+            <p>CHRISTMAS,
+The <hi>Chriſtians</hi> grand Feaſt: Its <hi>Original, Growth,</hi> and <hi>Obſervation,
+Alſo of</hi> Eaſter, Whitſontide, <hi>and</hi>
+other Holydayes modeſtly diſcuſſed
+and determined. Alſo the beginning of the Yeare,
+<hi>and other things obſervable.</hi> Where alſo among other learned Men,
+<hi>you have the judgment of thoſe eminent Men;</hi>
+Joſephus Scaliger, Rodulphus Hoſpinian,
+Matthaeus Beroaldus, Joh. Cauſabon,
+<hi>Doct.</hi> Fulk, <hi>M.</hi> Cartwright,
+Alſted, Hugh Broughton,
+<hi>Maſter</hi> Mead.</p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+               <bibl>Epictetus.</bibl>
+            </q>
+            <p>By THOMAS MOCKET;
+Sometimes of Queens Colledge in <hi>Cambridge,</hi>
+and Mr. of Arts in both the Univerſities;
+and now Paſtor of <hi>Gildeſton</hi> in
+<hi>Hartfordſhire.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <dateline>
+                              <date>Novemb. 26, 1650.</date>
+                           </dateline>
+                           <signed>Edm. Calamy.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Wodenoth</hi> at the Star under
+<hi>Peters</hi> Church in <hi>Cornhill.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115207:2"/>
+            <pb n="1" facs="tcp:115207:2"/>
+            <head>CHRISTMAS,
+The Chriſtians grand Feaſt: Its originall, growth &amp; obſervation;
+diſcuſſed and determined.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the diſſolving of this doubt,<note place="margin">Saturnus Aegy<g ref="char:EOLhyphen"/>ptius <hi>was wick<g ref="char:EOLhyphen"/>ed</hi> Cham, <hi>ſaith</hi> Laurentius Co<g ref="char:EOLhyphen"/>domannus in Anno M. 1905, Saturnus Baby<g ref="char:EOLhyphen"/>lonicus <hi>was cruell</hi> Nimrod, ibid.</note> and ſetling
+all religious, and peaceable mens minds
+and conſciences concerning the obſervation
+of <hi>Chriſts</hi> Nativity, we muſt know</p>
+            <p>1 That <hi>Saturn,</hi> who (as Heathens them<g ref="char:EOLhyphen"/>ſelves
+inform us<note n="*" place="margin">Phornutus, <hi>Alſo</hi> Cicero de natura Deorum Macrobius Sa<g ref="char:EOLhyphen"/>turnalium, l. 1. c. 7. Boccaçe <hi>ge<g ref="char:EOLhyphen"/>nealogie of the gods,</hi>
+               </note>) was ſon to <hi>Coelum,</hi> or
+<hi>Coelus</hi> and <hi>Veſta,</hi> Father of the Heathen gods, took to
+wife his own ſiſter <hi>Ops,</hi> by whom he had many children;
+<hi>Jupiter, Juno, Neptune, Pluto,</hi> and others, <hi>Patri Coelo viri<g ref="char:EOLhyphen"/>lia
+exſecuit,</hi> he cut off his father <hi>Coelums genitalia,</hi> and
+threw them into the Sea, a moſt unſon-like, and an a<g ref="char:EOLhyphen"/>bominable
+fact, he was famous in his generation, becauſe
+he<note n="a" place="margin">Macrob. Sa<g ref="char:EOLhyphen"/>turnal. l. 1. c. 7. Polyd. Virgil. de invent<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ribus r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rum, l. 3. c. 3.</note> firſt found out the art of grafting fruit trees and huſ<g ref="char:EOLhyphen"/>bandry
+in <hi>Latium,</hi> a part of <hi>Italy,</hi> and taught it firſt in
+<hi>Europe,</hi> he was generally honoured by the Heathens, as a
+god, and to that end, ſacred rites were done unto him,
+and the 25 of <hi>December,</hi> with the reſt of the days follow<g ref="char:EOLhyphen"/>ing,
+ſeven days together, were appointed and generally
+obſerved by the idolatrous Heathen, to that end, ſacrifices,
+ſports, and other ſolemnities, were magnificently, and
+with great preparation and rejoycing performed,<note n="b" place="margin">Polydor. Vir<g ref="char:EOLhyphen"/>gil. de invent. rerum, l. 2. c. 14 23. &amp; l. 5. c, 2. S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neca Epiſt. 18 Prin Hiſtrom. p. 751. &amp;c.</note> which
+the Apoſtle tels us is foul idolatry, <hi>a ſacrificing unto Devils,</hi>
+1 <hi>Cor.</hi> 10. 20. At which time alſo, there was a ſheaf of
+Corn, offered to <hi>Ceres,</hi> their <hi>Goddeſſe of Corn,</hi> and an hymn
+ſung in her praiſe, called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Alſo Feaſting,
+<pb n="2" facs="tcp:115207:3"/>
+               <note n="c" place="margin">Pol. Virg. de invent. l. 5. c. 2. Horatius Ca<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. l. 1. Ode 37. &amp; Sermo l. 2. Sa<g ref="char:EOLunhyphen"/>tyr. 7. <hi>Alſo</hi> Vir<g ref="char:EOLhyphen"/>gil. Ovid, &amp; a<g ref="char:EOLhyphen"/>lii.</note> Drinking, Stage-plays, Enterludes, Masks Mummeries,
+Dancing, and all licentious diſſoluteneſſe by their <hi>Lords of
+miſ-rule,</hi> (eſpecially in <hi>England,</hi> ſaith <hi>Polydore Virgil</hi>) who,
+for that time commanded all in the houſe, the Gover<g ref="char:EOLhyphen"/>nours,
+as well as others. He was made propitious by ſacrifi<g ref="char:EOLhyphen"/>ces
+of men unto him, as they thought.<note n="d" place="margin">Plut. Moral. p 379.</note> His better part as
+they believed) being tranſlated unto heaven, ſhineth forth
+in the greateſt and higheſt of the ſeven Planets, called <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi>
+a malevolent ſtar,<note n="e" place="margin">Stella nocens Saturnus. Lu<g ref="char:EOLhyphen"/>can.</note> Him, and alſo <hi>Belus, Jupiter, Mars,
+Mercurius, Venus, Pluto, Neptune, Apollo, Bacchus, Flora,</hi>
+and many other ſouls of great men departed, the <hi>Pagans</hi>
+worſhipped for their gods, becauſe while on earth, they
+deſerved well of mortall men, did many good things, ſaith
+<hi>Lactantius Firminianus,</hi>
+               <note n="f" place="margin">Lactantius in<g ref="char:EOLhyphen"/>ſtitut. divin. l. 1.</note> who as <hi>Auguſtine</hi>
+               <note n="g" place="margin">Aug. de Civit. Dei, l. 3. c. 3. &amp; 17.</note> ſaith, were
+known to have been adulterers, and notorious malefa<g ref="char:EOLhyphen"/>ctors,
+though in ſome other things famous.<note place="margin">Sir <hi>W. Raleighs</hi> Hiſtory of the World <hi>p.</hi> 73. 75.</note>
+            </p>
+            <p>That feſtivall time in <hi>December,</hi> called <hi>Saturnalia, (Sa<g ref="char:EOLhyphen"/>turns</hi>
+feaſts, becauſe in honour of <hi>Saturn</hi> their idol god)
+was called alſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Yule,</hi>
+               <note n="h" place="margin">
+                  <hi>Athen. l. 14. Veteres Theolo<g ref="char:EOLhyphen"/>gi</hi> begin their year as <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>à Domini praeſentiâ,</hi> which ſome re<g ref="char:EOLhyphen"/>fer to his birth, ſome to his ba<g ref="char:EOLhyphen"/>ptiſme, &amp; ſome to the appear<g ref="char:EOLhyphen"/>ing of the Star to the Wiſe<g ref="char:EOLhyphen"/>men, <hi>Beroald. Chron. l. 4. c.</hi> 1.</note> becauſe of the ſheaf
+then offer'd to <hi>Ceres,</hi> and hymn ſung in honour of her,
+for the words were generally uſed both for a ſheaf and
+that hymn, which time they ſpent in idolatrous ſacrificing,
+feaſting, revelling, and the like, as above-ſaid.</p>
+            <p>At this time was conſecrated to the honour of <hi>Saturn,
+Ceres,</hi> and their goddeſſe <hi>Veſta,</hi> by the ancient Heathens
+eſpecially.</p>
+            <p>So <hi>the firſt day of January,</hi> commonly called <hi>New-years-day,</hi>
+of which I have not yet obſerved any good reaſon in
+Antiquity, ſave only this, becauſe the Chriſtians retained
+the <hi>Julian</hi> Account and year, as the trueſt which begins
+the year on the <hi>Kalends,</hi> or firſt day of <hi>January,</hi> as<note n="*" place="margin">Hoſpin. de o<g ref="char:EOLhyphen"/>rig<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne Feſt. Ch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſtian. f. 31.</note> 
+               <hi>Ho<g ref="char:EOLhyphen"/>ſpinian</hi>
+obſerveth, without having reſpect to the true ac<g ref="char:EOLhyphen"/>connt
+of the beginning of time, but conceive rather that
+the year ſhould begin on <hi>March</hi> 25, when our Politicall
+and Civil year begins, and the firſt day of the worlds crea<g ref="char:EOLhyphen"/>tion,
+as ſome learned men think: Or rather now about the
+tenth of <hi>March,</hi> when the Sun firſt enters into the firſt
+degree of <hi>Aries,</hi> and begins our <hi>Spring,</hi> or about the 3<hi rend="sup">d.</hi> of
+<pb n="3" facs="tcp:115207:3"/>
+               <hi>Aprill,</hi> about which time <hi>Chriſt</hi> ſuffer'd, it being uſuall
+with <hi>Antiquity,</hi> to record the day of the death of eminent
+perſons in honour of them, for their birth day, becauſe
+they then begin to live the life of Eternity. The <hi>Ancient
+Heathens,</hi>
+               <note place="margin">
+                  <hi>i</hi> Martis erat primus menſis, Veneriſque ſe<g ref="char:EOLhyphen"/>cundus, Ovid. Faſt. lib. 1.</note> as the <hi>Romans,</hi> did begin their year with <hi>March,</hi>
+as appears by the names of the Moneths ſtill in uſe among
+us, namely, <hi>September, October, November, December,</hi> that
+is the ſeventh, the eighth, ninth, and tenth moneth, till
+<hi>Numa Pompilius</hi> the great forger and advancer of Hea<g ref="char:EOLhyphen"/>the
+Romane Idolatry and Superſtition, who began to
+reign about the third year of the ſixteenth <hi>Olympiade,</hi> ſaith
+<hi>Plutarch.</hi>
+               <note n="k" place="margin">Plut. in vita Numae Pompilii p. 48 Pol. Virg. de invent rerum l. 2. c. 4.</note> The <hi>Arabians</hi> and the <hi>Aegyptians</hi> began their
+year with the Vernall Equinoctiall or Spring, and the
+<hi>Jews,</hi> their Eccleſiaſticall year for holy feaſts and Church-affairs
+with <hi>Abib</hi> about the latter end of our <hi>March. Or
+elſe,</hi> we ſhould begin in <hi>September,</hi> as the <hi>Aſians,</hi> the later
+and Chriſtian <hi>Greeks:</hi> for the <hi>Ancient Greeks</hi> began their
+year with the <hi>Summers Solſtice,</hi> that is in <hi>June,</hi> as they did
+alſo their <hi>Olympiades,</hi>
+               <note place="margin">Sc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arpi Sym<g ref="char:EOLhyphen"/>phon. p. 141. Laurent. Codo<g ref="char:EOLhyphen"/>mannus Anna<g ref="char:EOLhyphen"/>les. Beroaldus Chron. l. 4 c. 1. p. 236.</note> ſaith <hi>Beroaldus, The Eccleſiaſticall
+Aſtrologers</hi> begin their year and account with <hi>September,</hi>
+do alſo the <hi>Jews:</hi> the <hi>Jews</hi> for legall, politicall, and civill
+affairs, becauſe they generally believed the <hi>World</hi> was
+then created, the fruits being then all ripe, and not any in
+<hi>March</hi> at the Paſſeoeer, for then corn was green, and
+green ears were offered to God, as appears by <hi>Exod.</hi> 9. 31.
+32.<note place="margin">Avenarius in Lexico Hebr.</note> the word <hi>Abib,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies <hi>Spica cum culmo, ſpica
+virens matureſcens,</hi> a green ear, earing, earing time <hi>Pagnin</hi>
+and <hi>Avenarius,</hi> ſee <hi>Exod. 9. 31, 32. Levit.</hi> 2. 14. The <hi>Septu<g ref="char:EOLhyphen"/>agint</hi>
+uſually renders it by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> new fruits: And the text
+ſays expreſly that the plague of hail, <hi>Exod.</hi> 9. which we
+may ſuppoſe hapned about the beginning of <hi>Abib, March</hi>
+Moon, or a few days before (as Mr. <hi>Mead</hi> well conjectu<g ref="char:EOLhyphen"/>reth)
+<hi>had ſmitten the flax and the barly,</hi>
+               <note place="margin">Mead Diatriba 3. part. p. 627.</note> 
+               <hi>becauſe the barly was
+eared, and the flax bolled, but the wheat and the rye were not
+eared,</hi> after which earing, it muſt have ſome time to ripen,
+with us they have about two moneths and ſometimes
+more, and ſo with them, (as I conceive) harveſt began
+<pb n="4" facs="tcp:115207:4"/>
+(their two loaves of firſt fruits, and harveſt feaſt of them,
+becauſe of the ripe corn) at <hi>Pentecoſt, Exod.</hi> 23. 16. the
+beginning of harveſt and not the end, as ſome affirm, for
+their ſeed time both for wheat and barly in <hi>Egypt</hi> (and
+therefore alſo about that in <hi>Paleſtine</hi>) was in <hi>November,</hi>
+and their barly was ripe in the ſixt moneth, but their wheat
+not till the ſeventh, about a moneth after, as <hi>Pliny</hi> informs
+us, which muſt be in <hi>May</hi> and <hi>June,</hi> the uſuall time of
+<hi>Pentecoſt</hi> which fell out moſt commonly in <hi>May,</hi> therefore
+this moneth was called <hi>Aethanim,</hi> which ſignifieth
+<hi>ſtrengths,</hi> becauſe all things were created in the ſtrength,
+and much about the time, our Bleſſed Saviour was born,
+that moneth beginneth towards the end of our <hi>September</hi>
+Moneth, but I return, having thought good to add a word
+or two concerning the beginning of the year.</p>
+            <p>
+               <hi>The firſt of January,</hi> commonly called <hi>New-years-day,</hi>
+a part of our Chriſtmas was dedicated to the honour of
+their <hi>two faced</hi>
+               <note n="*" place="margin">Polyd. Virgil. de invent. re<g ref="char:EOLhyphen"/>rum, l. 2. c. 4.</note> 
+               <hi>Idoll Janus</hi> ſo called, and pictured, bcauſe
+he was a wiſe Prince, that did look back, and well obſerve
+times and things paſt, and thence did wiſely gather and
+foreſee what might be hereafter, and accordingly did re<g ref="char:EOLhyphen"/>gulate
+his affairs, which day the Heathens did in like
+manner ſolemnize, and alſo by ſending of New-years-gifts
+one to another, wherefore the whole Catholike Church
+(as Mr. <hi>Prin</hi>
+               <note n="h" place="margin">Hiſtriom. p. 756. Concil. Al<g ref="char:EOLhyphen"/>tiſiod. A. C. 614. Can. 1. Synodus Turonica 2 Can. 23. Concil. Con<g ref="char:EOLunhyphen"/>ſtant. 6. A. C. 680 Can. 62.</note> informs us out of <hi>Alcuvinus</hi>) and four
+famous Councils appointed a ſolemn faſt to be kept on
+that day, to bewaile all heatheniſh ſports, plays, and lewd
+idolatrous practiſes and prophane courſes,<note place="margin">Polyd. Virgil de Invent. rerum l. 5. c. 2.</note> prohibiting all
+Chriſtians under pain of Excommunication from obſer<g ref="char:EOLhyphen"/>ving
+the firſt of <hi>January</hi> as holy, or ſending New years
+gifts.<note place="margin">Durand. Ratio<g ref="char:EOLhyphen"/>nale divin. offic. l. 6. c. 15.</note> 
+               <hi>It was condemned alſo</hi> by many ancient and learned
+Writers, as <hi>Ambroſe, Auguſtine, Chryſoſtome,</hi> and many o<g ref="char:EOLhyphen"/>thers,
+yea, and by two Popes as bad as they were, name<g ref="char:EOLhyphen"/>ly,
+<hi>Pope Zachary,</hi> and <hi>Pope Martin.</hi>
+            </p>
+            <p>
+               <hi>February</hi> the ſecond was dedicated to the honour of
+their <hi>goddeſſe Februa,</hi>
+               <note place="margin">Rhenanus in Tertul de Coro<g ref="char:EOLhyphen"/>na militum.</note> (the mother of <hi>Mars,</hi>
+               <note n="*" place="margin">Tertul. de I<g ref="char:EOLhyphen"/>dolat.</note> another of
+their Deities) to whom the <hi>Pagans</hi> offered burnt torches,
+<pb n="5" facs="tcp:115207:4"/>
+tapers, and wax-candles to pacifie the evill Spirits, as they
+did alſo on the altars of <hi>Saturn,</hi> on his feſtivall days, and
+the moneth is called <hi>February</hi> from <hi>Februus,</hi> which is
+<hi>Pluto,</hi> the god of hell, as the heathens imagined.</p>
+            <p>
+               <hi>May-day,</hi> the firſt day of <hi>May,</hi> was conſecrated and
+kept in honour of their devill goddeſſe <hi>Flora,</hi>
+               <note n="l" place="margin">Polyd. Virgil. de Invent. re<g ref="char:EOLhyphen"/>rum, l. 5. c. 2.</note> a notable
+rich whore, at what time they uſed to bring laurell, green
+boughs and branches of trees and flowers, with ſinging
+and rejoycing, and adorn their doors and houſes with
+them, a heatheniſh idolatrous practiſe, condemned by
+the Councill of <hi>Toledo,</hi>
+               <note n="m" place="margin">Concil. Tole<g ref="char:EOLhyphen"/>tanum A. C. 617 Can. 73.</note> where were preſent 77 Biſhops,
+and by <hi>Pope Martin,</hi> and by many other good writers, yet
+frequently practiſed in many places of <hi>England</hi> to this
+day.</p>
+            <p>
+               <hi>The firſt of November,</hi> was ſolemnly kept by the <hi>Pagans,</hi>
+in honour of all their devils Deities,<note n="n" place="margin">1 Cor. 10. 20</note> and a Temple built
+in <hi>Rome,</hi> and conſecrated in honour of them, both that
+feaſt and Temple were therefore called<note n="o" place="margin">Polyd. Virgil. de Invent. re<g ref="char:EOLhyphen"/>rum, l. 6. c. 8.</note> 
+               <hi>Pantheon.</hi>
+            </p>
+            <p>Thus you have a brief account of ſome of the Pagan
+idolatrous feſtivals, and how obſerved by them in honour
+of their idoll devill gods, and conſequently how little rea<g ref="char:EOLhyphen"/>ſon
+we Chriſtians have to obſerve them. Now</p>
+            <p>2 To come neerer to the point in hand, we muſt know
+alſo that the heathen idolatrous holy dayes were turned
+into Chriſtian, as <hi>Chriſt</hi>'s <hi>Nativity</hi>
+               <note n="p" place="margin">Polyd Virgil. de Invent. re<g ref="char:EOLhyphen"/>rum, l. 5. c. 1, 2. Durandus Rati<g ref="char:EOLhyphen"/>on. divin. offic. l. 7. c. 34. in feſto omnium Sancto<g ref="char:EOLhyphen"/>rum, Franc. de Croy <hi>his firſt conformity c.</hi> 19. 20.</note> was appointed to be
+kept, and hath long been generally obſerved on the very
+time and day, when <hi>Saturns</hi> idolatrous, riotous feaſt was
+ſolemnized, and in the room and imitation thereof, and
+therefore that time was anciently called <hi>Yule</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the heathens called it, and the mad, ryotous, pro<g ref="char:EOLhyphen"/>phane
+playes, and ſports in <hi>Chriſtmas</hi> time, <hi>Yule-games</hi> and
+<hi>Chriſtmas Karols,</hi> ſung in praiſe of <hi>Chriſt,</hi> as the heathens
+did the hymn <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in honour of the idoll <hi>Keres,</hi> that is
+<hi>Ceres,</hi>
+               <note place="margin">
+                  <hi>Doctor</hi> 
+                  <g ref="char:V">Ʋ</g>ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. de anno Maced. &amp; p. 40. <hi>out of</hi> Beda, de ratione temporum.</note> goddeſſe of corn.</p>
+            <p>
+               <hi>Innocents day Decemb.</hi> 28. The pretended day in which
+the Innocent children of <hi>Bethlem</hi> were murthered by <hi>He<g ref="char:EOLhyphen"/>rods</hi>
+command, <hi>Matt.</hi> 2. 16.) is dedicated to the memory,
+<pb n="6" facs="tcp:115207:5"/>
+and kept in honour of them, as it was conſecrated and
+kept feſtivall in honour of the Pagans idoll god <hi>Quirinus</hi>
+the ſirname of <hi>Romulus,</hi> the founder of <hi>Rome,</hi> whoſe idoll
+feaſt is called <hi>Quirinalia.</hi>
+            </p>
+            <p>
+               <hi>The Circumciſion of Chriſt,</hi> was ſolemnized on <hi>Jaunary
+the firſt,</hi> in the roome of their two-faced<note n="q" place="margin">Jani hiſrontis imago Virg. l. 7. Plutarch. in Numa Pompil. p. 48. Latinae verſionis Xy<g ref="char:EOLhyphen"/>landri. Jodo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us in Hora<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. f. 57.</note> idoll <hi>Janus</hi>
+heatheniſh idolatrious-feſtivall, and from thence <hi>Yule</hi> an
+hymne and ſheafe, (a burnt offering) to <hi>Ceres,</hi> our <hi>Bla<g ref="char:EOLhyphen"/>zes
+Chriſtmas Karols</hi> and ſending of New-yeares-gifts
+came.</p>
+            <p>
+               <hi>The Purification of Mary,</hi> is celebrated on <hi>February</hi> the
+ſecond, and called <hi>Candlemas-day,</hi> becauſe of the many
+wax candles and tapers offer'd and burnt in honour of the
+Virgin <hi>Mary,</hi>
+               <note n="r" place="margin">Polyd Virgil. de Invent. l. 5. c. 2.</note> and chriſtened by the <hi>Papiſt Candlemas<g ref="char:EOLhyphen"/>day,</hi>
+as the Pagan Idolaters did on that day to their ſhe<g ref="char:EOLhyphen"/>god
+<hi>Februa,</hi> more abundantly then to <hi>Saturn</hi> on his day,
+but <hi>accendant quotidiè lucernas, quibus lux nulla eſt, let them
+light candles to them that have no light in themſelves,</hi> ſaid <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi>
+and <hi>Lactantius</hi> of the<note n="ſ" place="margin">Tertul. in A<g ref="char:EOLhyphen"/>polog adverſus Gentes, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>actant. Inſtitut l. 6. c. 2.</note> heathens.</p>
+            <p>
+               <hi>May-day,</hi> alſo hath been by us obſerved (by the com<g ref="char:EOLhyphen"/>mand
+of Superiours as others holy days were) even with
+the heathens cuſtomes of bringing green boughs, branches
+of trees, flowers, and adorning of houſes, windows, with
+them, juſt as the Heathens did, alſo <hi>May-poles,</hi> dancing,
+drinking, and the like, <hi>Ethnicorum more,</hi> after the man<g ref="char:EOLhyphen"/>ner
+of the idolatrous Pagans.</p>
+            <p>Likewiſe, <hi>The firſt of November,</hi> was dedicated and ob<g ref="char:EOLhyphen"/>ſerved
+feſtivall in honour of the <hi>Virgin Mary,</hi> and all the
+<hi>Saints,</hi> by the Church of <hi>Rome,</hi>
+               <note n="t" place="margin">Polyd. Virgil. l. 6. c. 8. Durand. Rationale di<g ref="char:EOLhyphen"/>vin o<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ic. Ro<g ref="char:EOLhyphen"/>delphus H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpi<g ref="char:EOLhyphen"/>nian. de orig. ſe<g ref="char:EOLhyphen"/>ſtorum Chri<g ref="char:EOLhyphen"/>ſtian. f. 159</note> and called <hi>All-Saints-day,</hi>
+(as the Pagans obſerved it in honour of all the idol
+gods calling it <hi>Pantheon</hi>) and that by the decrees of <hi>Pope
+Boniface the Fourth,</hi> and <hi>Pope Gregory the Fourth.</hi>
+            </p>
+            <p>3 This change of Pagan idolatrous feaſts into Chriſtian,
+in honour of <hi>Chriſt,</hi> and the Saints, was made by ſome of
+the <hi>Ancients,</hi> when Chriſtianity was ſpread among the
+Heathens, and many of them converted to the true faith,
+in hope, that by complying with them, in obſerving their
+<pb n="7" facs="tcp:115207:5"/>
+feſtivall days but to Chriſtian ends, they ſhould the rather
+draw the Pagan Idolaters from Paganiſm to Chriſtianity.
+<hi>Pope Teleſphonus</hi>
+               <note n="u" place="margin">Rabanas M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urus I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. Clericorum l 2. c. 31. ut r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt Guil Prin Hi<g ref="char:EOLhyphen"/>ſtr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. p. 774. Miſſas in nocte Nativitacis Chriſti t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r cele<g ref="char:EOLhyphen"/>brari ſtatuit Teleſphorus. Summa Conci<g ref="char:EOLhyphen"/>liorum &amp; Pon<g ref="char:EOLhyphen"/>tificum per Bar<g ref="char:EOLhyphen"/>tholom. Carran<g ref="char:EOLhyphen"/>zam, p. 17, 18. <hi>Doctor</hi> Fu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k <hi>in an<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wer to the</hi> Rhemiſh <hi>Teſt.</hi> Matth. 2. 5, 4.</note> who began about the year of Chriſt
+140 in the time of <hi>Antoninus,</hi> the Emperours reign, was
+the firſt Authour we read of among the <hi>Romans,</hi> of the
+celebration of Chriſts Nativity, and on that day <hi>Saturns</hi>
+devil-feaſt was began, <hi>viz. December</hi> the 25, but in other
+Churches (excepting <hi>Conſtantinople</hi>) I find as yet no obſer<g ref="char:EOLhyphen"/>vation
+of it, the Church of <hi>Rome,</hi> where Antichriſt was
+to reign, being the firſt beginner and authour as of moſt
+other ſuperſtitious obſervations, ſo of this alſo. Before
+<hi>Conſtantine</hi> the Great, there were not many feſtivals obſer<g ref="char:EOLhyphen"/>ved,
+and the feaſt of the Nativity of <hi>Chriſt,</hi> Eaſter and
+Pentecoſt, which two laſt certainly (were obſerved before
+the Nativity) were not univerſally obſerved till many
+years after, ſaith Dr. <hi>Fulke,</hi> no not till many hundred
+years after Chriſt, ſee <hi>Magdeburgenſis Century</hi> 2. 4. 5. 6.
+<hi>Gregor. Magnus in Evang. hom. 8. Chemnit. harmony p.</hi> 92.</p>
+            <p>
+               <hi>The other feaſts mentioned before, were changed by</hi>
+Pope Boniface,<note n="x" place="margin">Bedae Eccleſ. hiſtor. l. 2 c. 14.</note> 
+               <hi>and</hi> Pope Gregory the Firſt;<note n="y" place="margin">Greg. Magn. Ep. l. 9 Ep. 71.</note> Pope Boniface
+<hi>began</hi> A. C. 419. Pope Gregorius <hi>began</hi> A. C. 590. <hi>as</hi>
+Alſtedius <hi>and</hi> Bellarmine<note n="z" place="margin">Alſted. Chron. p. 279. Bellar. de Script. Ec<g ref="char:EOLhyphen"/>cl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ.</note> 
+               <hi>inform me, contrary to the
+judgment and will of renowned</hi> Ambroſe, Auguſtiue,
+<hi>and the whole</hi> Councill of Affrick,<note n="a" place="margin">Guil. Prin hiſtr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. p. 760.</note> Can. 27. 28. <hi>and others.
+And to ſpeak truth at the firſt,</hi> Chriſts Nativity <hi>and other
+feaſts was religiouſly obſerved by the Chriſtians. Hear</hi>
+Tertullian <hi>of this matter,</hi>
+               <note n="b" place="margin">
+                  <hi>Tertull. in Apolog. adver<g ref="char:EOLhyphen"/>ſus Gentes c. 39, 40 f.</hi> 187. Ex<g ref="char:EOLhyphen"/>cellently alſo to this purpoſe <hi>Greg. Nazian<g ref="char:EOLhyphen"/>zene in orat. in Natalem Dom.</hi> A good exam<g ref="char:EOLhyphen"/>ple. for Chriſti<g ref="char:EOLhyphen"/>ans now to fol<g ref="char:EOLhyphen"/>low, on the Lords dayes, &amp; days of thankſ<g ref="char:EOLhyphen"/>giv<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng.</note> 
+               <hi>ſaith he, (ſpeaking of himſelf,
+and the Chriſtians of his time.</hi>) Coimus in coetum, &amp; con<g ref="char:EOLhyphen"/>gregationem,
+ut Deum quaſi manu facta precationibus ambia<g ref="char:EOLhyphen"/>mus
+orantes. Wee aſſemble together into one company, that ſo
+we might, as it were, aſſault and beſiege God with our joynt
+prayers. Again, we feed our faith, with holy words erect our hope,
+ſettle our confidence, eſtabliſh our diſcipliue with the often in<g ref="char:EOLhyphen"/>culcations
+of divine precepts: alſo there are exhortations, corre<g ref="char:EOLhyphen"/>ctions,
+divine cenſures. <hi>After which, they kept the Supper,
+or</hi> Love-feaſt (Agape) <hi>in which</hi> nihil vilitatis, nihil immo<g ref="char:EOLhyphen"/>deſtiae
+admittur, non prius diſcumbitur quam oratio ad Deum
+<pb n="8" facs="tcp:115207:6"/>
+praeguſtatur, <hi>in which,</hi> no vileneſſe, no immodeſty is admitted,
+they ſate not down (to eat) before they had firſt ſent up a prayer
+to God. Editur quantum eſurientes capiant, bibitur quantum
+pudicii eſt utile, <hi>and then falling to their meat,</hi> they eat no
+more then would well ſatisfie their hunger, drink no more than
+was fit for modeſt perſons, ſatiating themſelves, ſo as they re<g ref="char:EOLhyphen"/>membred
+they were to worſhip God in the night after. Ita confa<g ref="char:EOLhyphen"/>bulantur
+ut qui ſciunt Deum audire, diſcourſing as they who
+well knew God heard them. Poſt aquam manualem, and after
+water to waſh their hands, and lights were brought in, every one
+as he was able, was provoked to ſing a Pſalm to God. And as
+prayer began, ſo it likewiſe concluded the feaſt, after which they
+departed non in catervas coeſionum, neque in claſſes diſcurſati<g ref="char:EOLhyphen"/>onum,
+nec in eruptiones laſcivorum, not into the rude routs of
+ſwaſhing blades, not into the companies of rambling fellows, not
+into the laſhings out of laſcivious perſons, but to the ſame care
+of modeſty and chaſtity, like thoſe, qui non tam coenam coenave<g ref="char:EOLhyphen"/>rint
+quam diſciplinam, who had not ſo fed their bellies, as their
+minds and hearts with wholeſome diſcipline. Thus he ſhews
+how religiouſly they obſerved their feaſts; the ſuppoſed
+day of Chriſt's Nativity, and other feſtivall days at firſt,
+after their change from Pagan to Chriſtian feſtivals,
+which ſtrict and religious obſervation of thoſe days, were
+it now injoyned by authority, and practiſed, I believe it
+would be as much diſliked by our Chriſtmas men, as the
+non-obſervation of the time is now diſpleaſing.</p>
+            <p>4 But then withall, it muſt be remembred, that within
+a little time after, the obſervation of theſe Pagan feſtivall
+days (though the name and end was changed) brought in
+all the heatheniſh cuſtomes, and Pagan rites and ceremo<g ref="char:EOLhyphen"/>nies
+that the idolatrous Heathens uſed, as riotous Drink<g ref="char:EOLhyphen"/>ing,
+Health-drinking, Gluttony, Luxury, Wantonneſſe,
+Dancing, Dicing, Stage-plays, Enterludes, Masks, Mum<g ref="char:EOLhyphen"/>meries,
+with all other Pagan ſports, and prophane practi<g ref="char:EOLhyphen"/>ſes,
+into the Church of God, which was never defiled with
+theſe prophane abominations, till thoſe Pagan holy days
+<pb n="9" facs="tcp:115207:6"/>
+were changed into Chriſtian, which by reaſon of mens
+naturall proceſſe to carnall pleaſures, and heatheniſh rites
+and ceremonies, &amp;c. did ſoon transform all Chriſtian fe<g ref="char:EOLhyphen"/>ſtivals
+into heathen again, as many learned and good Wri<g ref="char:EOLhyphen"/>ters
+aſſure us,<note n="b" place="margin">Vide Prins Hiſtricm. p. 760</note> till at laſt, all Chriſtendome was over-run
+with them, and in a manner all life and power of Chriſti<g ref="char:EOLhyphen"/>anity
+eaten out with thoſe Pagan Chriſtmas paſtimes and
+heatheniſh delights. <hi>Hunc diem plurimi Chriſtianorum
+diurnis nocturniſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> compotationibus, commeſſationibuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pa<g ref="char:EOLhyphen"/>gunt,
+ita ut non Chriſti Natalia, ſed Bacchanalia potius &amp;
+Lupernalia agere viderentur, ſo that they ſeemed not to keep the
+feaſt of Chriſt's Nativity:</hi>
+               <note place="margin">Hoſpinian de o<g ref="char:EOLhyphen"/>rig. feſt. Chriſt. f. 45. &amp; 159.</note> (the like may be ſaid of other ho<g ref="char:EOLhyphen"/>ly
+days) <hi>but rather the drunken and riotous feaſt of Idoll</hi> Bac<g ref="char:EOLhyphen"/>chus
+<hi>and</hi> Pan, as <hi>Hoſpinian</hi> truly ſaith. It is true alſo that
+<hi>Beroaldus</hi> obſerveth,<note place="margin">Bercald. Chroni<g ref="char:EOLhyphen"/>corum, l. 4. c. 1.</note> that the pretence of celebrating the
+memory and vertues of ſome eminent godly Chriſtians,
+brought in holy dayes,<note place="margin">Primum ad o<g ref="char:EOLhyphen"/>tium, d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inde ad nequitiam &amp; ad caetera quae otium alit ma<g ref="char:EOLhyphen"/>la, inducit.</note> and holy days idleneſſe, and idle<g ref="char:EOLhyphen"/>neſſe,
+prophaneneſſe and all licentiouſneſſe, but we may
+ſay of the obſervation of holy days, as our Saviour in a<g ref="char:EOLhyphen"/>nother
+caſe, <hi>from the beginning it was not ſo. The truth is,</hi>
+that holy days, Monkery, Nunnery, ſolitary life, Images,
+praying for the dead, prayer to Saints departed and An<g ref="char:EOLhyphen"/>gels
+as Mediatours, were brought in by the factors for
+Antichriſt, yet with ſuch ſpecious pretences, and ſeeming
+devotion and holineſſe, that even many good men were
+ſtrangely deceived by them, till it was too late to with<g ref="char:EOLhyphen"/>ſtand
+them. <hi>But by thoſe</hi> Chriſtmas ſports, carnall plea<g ref="char:EOLhyphen"/>ſures
+and delights, God hath in thoſe few holy days been
+more diſhonoured, the devill better ſerved, evill men
+more hardned in their wickedneſſe, and good men more
+grieved, and more ſouls ſent head-long to hell, than on
+any other day, yea, than on all the reſt of the year beſide.</p>
+            <p>
+               <hi>Wherefore,</hi> thoſe godly Fathers, <hi>Auguſtine,</hi>
+               <note n="c" place="margin">Auguſtine <hi>the father flouriſh<g ref="char:EOLhyphen"/>ed</hi> A. C. 4: o <hi>died</hi> 433. B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llar de Script Eccleſ. Alſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d. Chronolog.</note> and others,
+obſerving thoſe growing evils that followed thereupon,
+wiſhed Pagan feſtivals had never been turned into Chri<g ref="char:EOLhyphen"/>ſtian
+feaſts, but quite aboliſhed, the better to avoid all
+heatheniſh cuſtomes, diſſolute and prophane practiſes.</p>
+            <p>
+               <pb n="10" facs="tcp:115207:7"/>
+And although the diſorders and abuſes of thoſe days
+were afterward condemned by <hi>Councils</hi> and <hi>Synods,</hi> as
+by the <hi>Councill</hi> of <hi>Rhemes, A. C.</hi> 1583, by the <hi>Synod
+of Toures in France,</hi> the ſame year, and by others before
+and ſince, yet all in vain, no rooting of them out, but by
+taking away the obſervation of them wholly, as experience
+ſheweth.</p>
+            <p>Thus we ſee who firſt appointed thoſe holy days we
+formerly kept as holy feſtivities, <hi>viz.</hi> the Heathen Pagan
+Idolaters, in honour of their idol devill gods, the ſouls of
+ſome dead Heroes, which all Chriſtians ought to abomi<g ref="char:EOLhyphen"/>nate,
+and that long after ſuch idolatrous uſe of them,
+ſome ſeducing and ſeduced Chriſtians turned the ſame
+days into Chriſtian feſtivals in honour of Chriſt and the
+Saints, in complyance with the Heathen Idolaters, out of
+hope to draw them to a Chriſtian Religion, but though the
+corruption of mans nature, eſpecially they having no divine
+warrant from <hi>Ieſus Chriſt</hi> ſo to do, it turned to the hard<g ref="char:EOLhyphen"/>ning
+of the Heathens in their Idolatry, and the uni<g ref="char:EOLhyphen"/>verſall
+and abominable corruption of the Church of
+Chriſt.</p>
+            <p>5 Now let it be conſidered, whether Chriſt was
+born as on that day, which commonly goes under his
+name, or about that time, and ſurely upon inquiry,
+wee ſhall finde that hee was not born then, but rather
+about the end of <hi>September,</hi> in <hi>October,</hi>
+               <note n="d" place="margin">Hoſpinian. de orig. feſt. Chri<g ref="char:EOLhyphen"/>ſtia. Matthaei Beroaldi Chron. <hi>l. 4 c</hi> 12. Hen. Wolphius in Ch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:cmbAbbrStroke">̄</g>. <hi>The Jews Ch<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſtian</hi> aera <hi>or a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>coun<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> birth of Chriſt beginni<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g in</hi> September, Jo<g ref="char:EOLhyphen"/>ſephus S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aliger de Emend. tem<g ref="char:EOLhyphen"/>porum, Hugh Broughten <hi>in his Conſent of Scripture, in</hi> A. M. 3953. Jo ban. Canſabon. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. p. 91. Scaliger <hi>a ſo in</hi> Canonibus Iſa<g ref="char:EOLhyphen"/>gogi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is, p. 297. Mr. M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia<g ref="char:EOLhyphen"/>triba 3. part. p. 617. &amp;c A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſted. Praecog. T<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ol. p. 532 &amp; 572. Alſted. Chronol p. 19. 22 74. &amp; 120. Encyclop. p 2998. <hi>Who addeth further,</hi> ut docent e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uditi Chronol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gi. <hi>It is the opinion of the moſt learned Chronologers, ſaith Mr.</hi> Mead, Di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>triba 3<hi rend="sup">
+                     <hi>d</hi>.</hi> port p. 6. 8. <hi>Doctor</hi> Drakes <hi>ſacred Chronog.</hi> p. 72, 73. Scharpius Symphon. Veteres animad vert<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe Dominum noſtrum Jeſum Chriſtum, natum fuiſſe aquinoctio Autum<g ref="char:EOLhyphen"/>nali, quae canſa eſt ut annos inde ſic exorſiprioris aetatis Chriſtiani, quos à Domini nativi<g ref="char:EOLhyphen"/>tate ſolita eſt inc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oare Vetus Eccleſia. <hi>B<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roaldi Chron. l. 4. p.</hi> 236.</note> which I thus
+clear, beſide the learned Authors judgment mentioned
+in the margine.</p>
+            <p>
+               <hi>Firſt,</hi> from the time of his conception, which was to<g ref="char:EOLhyphen"/>wards
+the end of <hi>December,</hi> or in <hi>Ianuary</hi> at the fartheſt,
+and therefore his birth being full 9 moneths or 40 weeks
+after, muſt fall about the end of <hi>September,</hi> or in <hi>October</hi>
+               <pb n="11" facs="tcp:115207:7"/>
+which I think evident, by laying down theſe Propoſitions,
+which I believe are manifeſt truths.</p>
+            <p>1 That the Jews Eccleſiaſticall year began in <hi>Niſan,</hi>
+alias <hi>Abib, Exod 12. 2. This moneth ſhall be to you the begin<g ref="char:EOLhyphen"/>ning
+of moneths,</hi> the moneth in which <hi>Iſrael</hi> came out of
+Egypt, <hi>Exod.</hi> 13. 4. which contains the latter part of our
+March, and the former part of our Aprill.</p>
+            <p>2 That the Jewiſh year conſiſted of twelve moneths.</p>
+            <p>3 That in thoſe 12 monethes were 24 courſes for the
+Prieſts to ſerve in the Temple, each Prieſt fourteen days,
+1 <hi>Chron 24. v.</hi> 1, and 6. to 20.</p>
+            <p>4 That in <hi>Abiatus</hi> courſe,<note n="c" place="margin">Alſted. Chron. p. 19, 20, 74.</note> which was the eighth
+courſe or fortnight from the beginning of <hi>Abib,</hi> which be<g ref="char:EOLhyphen"/>gan
+on the latter part of our March, with our March<g ref="char:EOLhyphen"/>moon
+then.</p>
+            <p>That miſtake that <hi>Zechary</hi> was high Prieſt, and offici<g ref="char:EOLhyphen"/>ated
+in September, in the feaſt of Tabernacles may eaſily
+be confuted from the text, <hi>Luke 1. v.</hi> 1, 8, 9. the primitive
+practiſe of the Church of <hi>Alexandria,</hi> which was very ex<g ref="char:EOLhyphen"/>act
+in their accounts, they celebrated the birth of <hi>Iohn</hi> the
+Baptiſt, Aprill 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 13 the 28 <hi>menſis Pharmutii,</hi> ſaith <hi>Cyrill,</hi>
+in an Homily on that occaſion. Alſo by the perpetuall
+obſervation of the <hi>Jews,</hi> and is fully done by <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>harpius,
+Scaliger, Cauſabon, Ber<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ldus, Mead,</hi>
+               <note n="*" place="margin">Scharpi Sym<g ref="char:EOLhyphen"/>phon. p. 471. Cauſahon <hi>out</hi> Scaliger. Exer<g ref="char:EOLhyphen"/>cit. p. 91. Berc<g ref="char:EOLhyphen"/>ald. Chron. l. 4. c. 2. Meads Dia <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> triba 3 pa t. p. 620.</note> and others.</p>
+            <p>5 That after <hi>Zecharies</hi> courſe of miniſtring in the Tem<g ref="char:EOLhyphen"/>ple
+was ended, and <hi>Zechary</hi> returned home, his wife <hi>Eli<g ref="char:EOLhyphen"/>zabeth</hi>
+conceived him, who was after called <hi>John, Luke</hi> 1.
+5, 6, 13, 19, 23, 24, <hi>After theſe days,</hi> (that is, the end of his
+courſe and miniſtery) <hi>his wife Elizabeth conceived, &amp;c.</hi>
+which was in the latter end of our July, and <hi>John</hi> was
+born in the end of our Aprill<note n="f" place="margin">Scharp. Sym. phon. p. 473. Alſted. Chron p. 20. 74. 121. Brough<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons <hi>Conſent in</hi> A. M. 3953. Cau<g ref="char:EOLhyphen"/>ſabon <hi>out of</hi> Scaliger. de E<g ref="char:EOLhyphen"/>mendatione temporum, &amp; in Canonibus Iſa<g ref="char:EOLhyphen"/>gogi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is. p. 29<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Cauſa<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Ex<g ref="char:EOLhyphen"/>ercitati, p 91.</note> or thereabout.</p>
+            <p>6 That our bleſſed Saviour was conceived in the
+wombe of the <hi>Virgin Mary</hi> by the <hi>Holy Ghoſt,</hi> ſix moneths
+after the conception of <hi>John the Baptiſt, Luke</hi> 1. 7, 26, 27,
+to 36. which muſt fall out about the end of December,
+or in January ſix moneths after the end of July, the time
+of <hi>Johns</hi> conception.</p>
+            <p>
+               <pb n="12" facs="tcp:115207:8"/>
+Theſe things being granted (w<hi rend="sup">ch</hi> I think cannot be denied)
+it muſt of neceſſity follow that Chriſts birth, which was
+nine moneths or forty weeks after, muſt fall out about the
+end of September, or in October, eſpecially he being her
+firſt-born.</p>
+            <p>
+               <hi>Secondly,</hi> I clear this aſſertion concerning the time of
+<hi>Chriſt</hi>'s birth, from the time of his ſuffering, thus:</p>
+            <p>1 It is (I think) generally granted by Divines,<note place="margin">Matthaeus Be<g ref="char:EOLhyphen"/>roald. Chron l. 4. c. 2. &amp; l. 3. c. 8.</note> that
+<hi>Chriſt</hi> lived on earth 32 years and an half, or 33 and an
+half, <hi>Chriſt</hi>'s birth and baptiſme were both on the 14 day
+of the ſeventh moneth, to which our September anſwe<g ref="char:EOLhyphen"/>reth:
+he was three year and an half in his miniſtry, lived
+in all 32 years and an half (ſaith <hi>Beroaldus</hi>) but many o<g ref="char:EOLhyphen"/>thers
+reckon 33 years and an half;<note place="margin">g Piſcator in Luk. 3. 13 Beza, Broughtons <hi>Conſent a<g ref="char:EOLhyphen"/>gainſt</hi> A. M. 3941. Lauren<g ref="char:EOLhyphen"/>tii C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>doman. Annales. Ainſw. Annot. in Numb 4. 3. <hi>with</hi> Gen. 5. 32. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eroal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i Chron. l. 4. c. 2.</note> all (I think) acknow<g ref="char:EOLhyphen"/>ledge
+an odde half year, for he was baptized and entred
+into his publique miniſtery, when he began to be, or entred
+upon the thirtieth year of his age. <hi>Luke</hi> 3. 22, 23. at which
+age the Leviticall Prieſts (as ſome affirm) enter'd upon
+their ſervice. <hi>Numb.</hi> 4. 3, 35, 39, 43, 47. or as ſome others
+when the thirtieth year of his age was compleat, and he
+began to enter upon his one and thirtieth year, the words
+are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which word for word is: <hi>he was begin<g ref="char:EOLhyphen"/>ning,
+&amp;c. Beroaldus</hi> renders it thus: <hi>Ipſe annum ingreditur
+triceſſimum:</hi> ſee the Authors in the Margine.</p>
+            <p>2 That hee lived three years and an half in his pub<g ref="char:EOLhyphen"/>lique
+miniſtery, from his baptiſme to his paſſion, is gene<g ref="char:EOLhyphen"/>rally
+granted by Divines, yet ſome,<note n="h" place="margin">Alſted. Chron. p. 22. Scharpius in Sympho. p. 474.</note> I have read, ſay four
+years and an half,<note place="margin">i Laurentius Codoman. An<g ref="char:EOLhyphen"/>nales, H. B. &amp; R. B. Iti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erari<g ref="char:EOLhyphen"/>um ſacrae Script p. 477. Auguſt. contra Judaeos, Paganos, Arria<g ref="char:EOLhyphen"/>nos, l. 3. c. 5.</note> which diſagreement doth nothing wea<g ref="char:EOLhyphen"/>ken
+our aſſertion, but confirm it.</p>
+            <p>3 T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he ſuffered the 15 day of the moneth <hi>Abib</hi> or
+<hi>Nilan,</hi> which was then about our Aprill the third, but
+<hi>Auſtine</hi> ſays on the 8<hi rend="sup">th</hi>. Kalends of April (that is March 25.</p>
+            <p>Now caſt away all the whole years (be they more or
+fewer, it matters not) and there remains half a year or ſix
+moneths, which all learned men (w<hi rend="sup">ch</hi> I have read or heard
+of acknowledg) which ſix moneths reckon (either forward
+or backward, all comes to one account) from the time of
+<pb n="13" facs="tcp:115207:8"/>
+his ſuffering and his birth falleth preciſely about the end
+of September or beginning of October, and ſo we have
+the time evidenced to fall out this way alſo pat with the
+other. This alſo <hi>Beroaldus</hi> proveth from the 9 of<note n="k" place="margin">Math. B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcal<g ref="char:EOLhyphen"/>di Chron<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>corum l. 4. c. 2.</note> 
+               <hi>Daniel.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> Neer upon the ſame time falleth the obſerva<g ref="char:EOLhyphen"/>tion
+of Mr. <hi>Mead,</hi>
+               <note n="l" place="margin">Meads Dia<g ref="char:EOLhyphen"/>triba 3. part p. 615. &amp; 617. Hen. Wolphius in Chron.</note> and ſome others from <hi>John 1. 14. The
+word was made fleſh, and dwelt among us:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>;
+and tabernacled, pitched his tent, or dwelt in tents, for ſo
+the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifieth, anſwerable to the type of
+the Iſraelites, dwelling in tabernacles, tents or buſhes
+in the feaſt of the ſeventh moneth, <hi>Levit. 23. 34. Deut.</hi> 16.
+13. <hi>Nehem.</hi> 8. 14, a thing uſuall among the Jews, at the
+feaſts of Tabernacles, which began on the 15 day of the
+September-moon, and ended the 22, at which time they
+affirm <hi>Chriſt</hi> to be born, and ſo happily anſwered the type,
+which another cuſtome uſed at that feaſt, ſeems to con<g ref="char:EOLhyphen"/>firm,
+for while they were carrying the boughs, they uſed
+this ſhort prayer, <hi>Hoſanna, Hoſanna, a ſave now,</hi> or <hi>ſave
+I beſeech thee.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Adde here unto the teſtimony of the <hi>Rabbines</hi>
+in <hi>Midraſh Rabba,</hi> that the <hi>Meſſiah</hi> muſt be born in the
+moneth <hi>Aethanim,</hi> alias <hi>Tiſri,</hi> and September <hi>the moneth
+of ſtrengths,</hi> full of feaſts, to teach of the <hi>Meſſiah,</hi> And ſo
+wee finde that the three chief aniverſary feaſts of the
+Jews did foretell and type out <hi>Chriſts</hi> times.</p>
+            <p>As 1 <hi>Their Paſſeover</hi> was a memoriall of <hi>Iſraels</hi> pre<g ref="char:EOLhyphen"/>ſervation
+in Egypt, and deliverance out of it in the firſt
+moneth <hi>Abib,</hi> fitly prefiguring Chriſts death, and our ſpi<g ref="char:EOLhyphen"/>rituall
+redemption wrought by Chriſt at the ſame time.</p>
+            <p>2 <hi>Their feaſt of Weeks,</hi> or harveſt 50 days after the Paſ<g ref="char:EOLhyphen"/>over,
+the time of giving the <hi>fiery law</hi> by <hi>Moſes</hi> to <hi>Iſrael</hi>
+with our <hi>Pentecoſt,</hi> when the Spirit was given in fiery
+cloven tongues. <hi>Act.</hi> 2. 1, 2, 3, 4. So</p>
+            <p>3 <hi>Their feaſt of Tabernacles,</hi> or dwelling in tents or
+buſhes on 15 of the ſeventh moneth, and September, 8
+days together, prefigured <hi>Chriſts Nativity,</hi> pitching his
+tent, or dwelling in the Tabernacle of his fleſh among
+men, four times eight years.</p>
+            <p>
+               <pb n="14" facs="tcp:115207:9"/>
+               <hi>Fiftly,</hi> At that time Chriſt was born, all the world
+went to be taxed, every man to his own city, <hi>Luke</hi> 2. 2, 3.
+but it is not at all probable, that the journeying of all the
+world, men and women with child, ſhould be comman<g ref="char:EOLhyphen"/>ded
+by Empericall Edict in the depth of winter, when
+the ways were worſt, and the days ſhorteſt, and therefore
+unfitteſt for travail, eſpecially for women with child, there
+are days enough in the year beſide to gather and pay mo<g ref="char:EOLhyphen"/>ney:
+neither was <hi>Auguſtus Caeſar,</hi> ſo bare of money and
+hard put to it: neither doth Princes uſe to gather ſuch ex<g ref="char:EOLhyphen"/>traordinary
+taxes of their ſubjects in the middle of win<g ref="char:EOLhyphen"/>ter,
+and when the fruits of the year are half ſpent, but pre<g ref="char:EOLhyphen"/>ſently
+after harveſt,<note place="margin">Hen. Wolph. Chron. l. 1.</note> as <hi>Wolphius</hi> obſerveth.</p>
+            <p>
+               <hi>Sixtly,</hi> At that Chriſt was born, the Shepheards were
+watching their flocks in the open fields all night, <hi>Luke</hi> 2.
+8. but tis very unprobable, that they did ſo in winter,
+eſpecially in December moneth, ſheep being <hi>frigoris impa<g ref="char:EOLhyphen"/>tientiſſimae,</hi>
+moſt impatient of cold, as <hi>H. Wolphius</hi>
+               <note n="m" place="margin">H Wolp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. l. 1. Chron.</note> out
+of <hi>Heſide l. 2. operum,</hi> but in houſes or ſtables, as <hi>Columella</hi>
+ſaith. <hi>l. 7. c. 3. &amp; Virgil. l. 3. Georg.</hi> conſider our Saviours
+words. <hi>Matth. 24. 20. Pray that your flight be not in the
+winter.</hi>
+            </p>
+            <p>
+               <hi>Seventhly,</hi> Neither is it likely, that the Wiſemen that
+came to viſite Chriſt, were ſo unwiſe, as to take ſo long
+a journey to, and from Chriſt, in the<note n="n" place="margin">Doct <hi>Drakes</hi> ſacred <hi>Chron. p.</hi> 72.</note> depth of winter.</p>
+            <p>
+               <hi>Eighthly,</hi> Chriſt was born on the day of the Autumme
+Equinoctiall, in which the world was made by God, de<g ref="char:EOLhyphen"/>formed
+and undone by <hi>Adam,</hi> but renewed by<note n="o" place="margin">Natus mun<g ref="char:EOLhyphen"/>dus &amp; renatus eodem menſe ſc<g ref="char:EOLhyphen"/>ptimo, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ald. Chron. l. 4. p. 248. <hi>See</hi> Hen. Wolphius Chr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. l. 1.</note> Chriſt.</p>
+            <p>
+               <hi>Ninthly, Beroaldus</hi> proves Chriſt birth to be in Septem<g ref="char:EOLhyphen"/>ber,
+by another argument from <hi>Daniel c.</hi> 9. in his 4<hi rend="sup">th</hi>.
+<hi>Book,</hi> and 3<hi rend="sup">d</hi> 
+               <hi>chapt</hi> to whom I referre the learned.</p>
+            <p>
+               <hi>Laſtly,</hi> The true, perticular and exact time of Chriſts
+birth cannot be determined by men, and if Chriſts birth
+were unknown to<note n="p" place="margin">Clem. Alex. Strom. l. 1. <hi>who lived</hi> An. Chri<g ref="char:EOLhyphen"/>ſti, 195. Epi<g ref="char:EOLhyphen"/>phanius, Beroal<g ref="char:EOLhyphen"/>dus, Mead, <hi>Dr.</hi> Fulk <hi>on the</hi> Rhem. <hi>Teſt.</hi> Matth 2. 5, 1.</note> 
+               <hi>Clemens Alexandrinus,</hi> and them that
+lived the next age to Chriſt, why, I pray you (ſaith <hi>Ho<g ref="char:EOLhyphen"/>ſpinian</hi>)
+do you believe <hi>Epiphanius,</hi>
+               <note n="q" place="margin">Epiph. to<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1. l 2.</note> who lived almoſt
+400 years after, who held January 5, or <hi>Middelburgenſis,</hi>
+               <pb n="15" facs="tcp:115207:9"/>
+who<note n="r" place="margin">Middelburg c. 4. l. 19.</note> was for the 8 Kalends of Aprill, is March 25, or
+they that ſay he was born on December 25. as did <hi>Oroſius?</hi>
+Some of the Ancients held that Chriſt was born January 6,
+and they call'd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, alſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſome on April 29:
+ſome on <hi>May</hi> 19, or 20: ſome in September, ſome on De<g ref="char:EOLhyphen"/>cember
+25, ſaith <hi>Hoſpinian,</hi> and <hi>I. Cauſabon,</hi>
+               <note n="ſ" place="margin">Hoſpin. de ori<g ref="char:EOLhyphen"/>gine feſt. Chriſt. Cauſabon. Ex<g ref="char:EOLhyphen"/>ercit. 1. p 91.</note> ſome on March
+25, then the day of the Vernall Equinoctiall, ſaith <hi>Middel<g ref="char:EOLhyphen"/>burgenſis.</hi>
+               <note n="t" place="margin">Middelburg. l. 19. c. 4.</note> And accordingly, the birth of Chriſt was ce<g ref="char:EOLhyphen"/>lebrated
+by the Roman, or Latine and French Churches
+on December 25, ſaith <hi>Theophilus Caeſarienſis, Paleſtinae
+Epiſcopus.</hi> The <hi>Aegyptians, Graecians</hi> and <hi>Armenians,</hi> a
+people in <hi>Aſia,</hi> celebrated his Nativity and Baptiſme,
+both together on our <hi>Epiphany,</hi> January 6, ſaith <hi>Caſſianus</hi>
+and <hi>Hugo,</hi>
+               <note n="u" place="margin">Hugo in Matth. c. 1.</note> others on the 15 day of <hi>menſis <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yb.</hi> and a<g ref="char:EOLhyphen"/>bout
+January 9, ſome others on the 14 or 15 <hi>menſis Phar<g ref="char:EOLhyphen"/>muthi,</hi>
+that is Aprill the 9 or 10, as <hi>Cyrill</hi> informs us in an
+Homily on that<note n="*" place="margin">Cyril in hom. ejus argumenti.</note> occaſion.</p>
+            <p>The firſt inſtitution of it cannot be known, ſaith <hi>Hoſpi<g ref="char:EOLhyphen"/>nian,</hi>
+and the firſt mention of its obſervation that he could
+finde (though a diligent ſearcher into Antiquities of this
+kind) was by <hi>Theophilus,</hi>
+               <note place="margin">In Paſch. Epiſt.</note> Saint <hi>Theophilus</hi> Biſhop of <hi>Anti<g ref="char:EOLhyphen"/>och.
+A long time after</hi> the <hi>Lords</hi> Aſcenſion, there was no day
+or certain time appointed for the obſervation of the birth
+of Chriſt, ſaith <hi>Beroaldus,</hi>
+               <note n="x" place="margin">Beroa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, Chro. l. 4 p. 238. longo poſt Aſcentio<g ref="char:EOLhyphen"/>nem Domini tempore nullum fuiſſe feſtum, aut cer<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o tem<g ref="char:EOLhyphen"/>pore diſtinctam diei natalis ob<g ref="char:EOLhyphen"/>ſervationem.</note> yea, there was no certainty a<g ref="char:EOLhyphen"/>greed
+upon in <hi>Epiphanius</hi> time, as himſelf witneſſeth, who
+lived almoſt 400 years after Chriſt; and it was after the
+time of <hi>Conſtantine</hi> the Great (who died about 337) that
+the 25 of December, was choſen, and firſt in the Latine or
+Roman Church, but not in the Greek Church till the
+days of <hi>Chryſoſtome,</hi>
+               <note n="y" place="margin">
+                  <hi>Maſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi> Mead Diatriba. 3. part. p. 619.</note> who made an oration, yet extant,
+at the firſt obſervation of that day, which he ſays they re<g ref="char:EOLhyphen"/>ceived
+from the Roman Church, he flouriſhed <hi>A. C.</hi> 400.
+But <hi>Beroaldus</hi> ſaith,<note n="z" place="margin">Beroald Chron. l. 4. c. 1. p. 236. &amp; 238. Hoſpin. de orig ſeſt. Chriſt. f. 66</note> there was nothing certain inſtituted
+til <hi>A. C.</hi> 532, and that, as it ſeems, the firſt Councill that
+determin'd that day, was the <hi>Council of Aurelia,</hi> or <hi>Orleans</hi>
+in <hi>France A. C.</hi> 558, and after that the 10 <hi>Councils of Tole<g ref="char:EOLhyphen"/>do
+in Spain, A C.</hi> 621, but it was obſerved long before that,
+<pb n="16" facs="tcp:115207:10"/>
+and ſurely God hath purpoſely concealed that day of
+Chriſts birth, that none might ſuperſtitiouſly obſerve it,
+as he did <hi>Moſes</hi> ſepulcher.</p>
+            <p>
+               <hi>Q.</hi> But if Chriſt's birth was about the end of Septem<g ref="char:EOLhyphen"/>ber
+or in October, why then did the Ancients ſet that time
+apart in memory of Chriſt's birth, and not ſome other
+neereſt to it?</p>
+            <p>
+               <hi>A.</hi> The <hi>Ancients,</hi> who changed that Pagan feſtivall to
+Chriſts Nativity, did not therefore pitch on that day, be<g ref="char:EOLhyphen"/>cauſe
+they thought he was then both, ſaith <hi>Hoſpinian, Pau<g ref="char:EOLhyphen"/>lus
+Jovius,</hi> and others, eſpecially <hi>J. Cauſabon,</hi>
+               <note n="a" place="margin">Hoſpin de o<g ref="char:EOLhyphen"/>rig. feſt. Chriſt. f. 160. Paulus Jovius biſt. l. 38 Hugo in Matth. c. 2. Cauſobon. Exercit. 1. p. 91. Videntur Pii Patres, &amp;c. Religionem fa<g ref="char:EOLhyphen"/>cilius admiſſum iri ſperabant ſi eadem opera im<g ref="char:EOLhyphen"/>pias Gentium ſolemni ates de<g ref="char:EOLhyphen"/>berent &amp; novas inſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tuerent, quae ad verum Dei cultum p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>tinent.</note> but becauſe
+they hoped that the turning the Heathens feaſts on theſe
+days w<hi rend="sup">ch</hi> were obſerved to chriſtian, as they did alſo ſome
+other Pagan holy-days, obſerving the ſame days ſtill, but
+to a better end and uſe, would be a means to draw the
+Ethnicks from Paganiſm, to Chriſtianity, but it turned to
+a quite contrary effect, to wit, the hardning of the Hea<g ref="char:EOLhyphen"/>thens
+in their idolatry and ways of ſin, and the great cor<g ref="char:EOLhyphen"/>ruption
+of the Church of God with heatheniſh cuſtomes,
+prophane and ſuperſtitious practiſes, through the prone<g ref="char:EOLhyphen"/>neſſe
+of people generally to carnall pleaſures, ſuperſtiti<g ref="char:EOLhyphen"/>ous,
+and prophane cuſtomes and practiſes, and eſpecially
+through the idleneſſe, luxury, pompe, power, wealth
+and diſſoluteneſſe of the Popes clergy, the ſuperſtitious
+Prieſts and Monks of <hi>Rome</hi> Chriſtian, (now long ſince tur<g ref="char:EOLhyphen"/>ned
+Antichriſtian) following ſtep by ſtep <hi>Rome</hi> Heathen,
+who brought in and countenanced <hi>Spurcitias Gentilium,</hi>
+the filthineſſe, diſhoneſty and uncleanneſſe of the idola<g ref="char:EOLhyphen"/>trous
+Gentiles, as many good Authors and<note n="b" place="margin">Salvion. de Gubern. Dei, l. 3 Greg. Magnus hom. 17. in E<g ref="char:EOLhyphen"/>vangel. &amp; Mo<g ref="char:EOLhyphen"/>ral. l. 6. c. 17. Aug. de Civit. D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i l. 2. c. 20. Franc. de Croy, <hi>his firſt confor<g ref="char:EOLhyphen"/>mity.</hi> Synodus Tironenſis ſub C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arl. Magno, A. C. 742. Can. 5 Jeffery Chaucer <hi>his Plowmans tale. See many others mentio<g ref="char:EOLhyphen"/>ned in Maſter</hi> Prins Hiſtriom. p. 760. &amp;c. <hi>which I have not read.</hi>
+               </note> Councils
+inform us.</p>
+            <p>Wherefore I conclude this ſection, that conformity un<g ref="char:EOLhyphen"/>to,
+and retention of the Heatheniſh cuſtomes in the ob<g ref="char:EOLhyphen"/>ſervation
+of days, and perticularly of thoſe days firſt con<g ref="char:EOLhyphen"/>ſecrated
+to Heathens ſpurious idoll Deities, is not com<g ref="char:EOLhyphen"/>mendable
+in Chriſtians, ſutable or agreeable to the Go<g ref="char:EOLhyphen"/>ſpell,
+though under pretext of honouring Chriſt, and his
+worſhip, but to be renounced and caſt off for ever, with de<g ref="char:EOLhyphen"/>teſtation
+of all Chriſtian pious hearts.</p>
+            <p>
+               <pb n="17" facs="tcp:115207:10"/>
+6 <hi>But ſuppoſe it were true,</hi> and certain that Chriſt was
+born in the <hi>Winter Solſtice,</hi> on that day we heretofore ob<g ref="char:EOLhyphen"/>ſerved
+in memory of his birth, <hi>viz.</hi> December 25, (the
+contrary whereunto is, I think, clearly and fully proved)
+yet now by reaſon that our year conſiſteth of 365 days
+and 6 hours is longer then the true naturall and tropicall
+year, by 11 minutes and 15 ſeconds, or thereabout, every
+25<hi rend="sup">th</hi> day of December is ſo much later then the former, ſo
+that the 25 of December this preſent year 1650 fals out
+about thirteene days, or more later than the true ac<g ref="char:EOLhyphen"/>count
+of time, and later than it was, then which
+<hi>Julius Caeſar</hi> inſtituted the <hi>Julian-Yeare</hi> (the ſame
+yeare that is now in uſe among us) about 54 years be<g ref="char:EOLhyphen"/>fore
+<hi>Chriſt</hi> was born, alſo later by almoſt ſo much, then it
+was on that year <hi>Chriſt</hi> was born, therefore our 25 of
+December is not the day, but December 11, when the
+Sun enters into <hi>Capricorn,</hi> (though the former ſuppoſition
+were granted, which may not be) and therefore not to be
+obſerved in memory of <hi>Chriſt,</hi> eſpecially by knowing
+Chriſtians, leaſt by their practiſe they ſhould teach others
+alſo to believe that for truth which is very untrue, that
+Chriſt was born on that day, by which alſo we may ſee
+how untruly though ignorantly many did ſay the Collect
+appointed for that day. <hi>Almighty God which haſt given us
+thine onely begotten ſon, to take our nature upon him, and</hi> this
+day <hi>to be born, &amp;c.</hi>
+            </p>
+            <p>7 The celebration of our December the 25 in memory of
+<hi>Chriſts Nativity</hi> (ſuppoſing further that he was then born,<note place="margin">
+                  <hi>M.</hi> Cartwrights Annotat. <hi>on the</hi> Rhem. <hi>Teſt.</hi> Gal. 10. §. 5. Matth. 2. Sect. 1</note>
+and that that time is the true time of the year, and the
+ſame time it was when <hi>Chriſt</hi> was born, <hi>viz.</hi> the day of the
+<hi>Winters Solſtice</hi>) yet is it not juſtifiable and warrantable for
+Chriſtians who pretend to honour Chriſt to obſerve it.</p>
+            <p>1 <hi>Becauſe</hi> there is no precept, example, or approved
+ground in ſacred Scripture for the obſervation of that day
+in houour of <hi>Chriſts birth,</hi> if any ſuch be, let him that can
+ſhew it, and I will imbrace it, and recant my errour at
+<hi>Pauls-croſſe,</hi> or the <hi>Exchange,</hi> but it is an humane inventi<g ref="char:EOLhyphen"/>on,
+and a meer tradition of men, and was deviſed, and
+<pb n="18" facs="tcp:115207:11"/>
+the religious obſervation of it, and other holy days were
+impoſed and commanded meerly and only by man with<g ref="char:EOLhyphen"/>out
+any ground and warrant from <hi>Chriſt,</hi> therefore they
+that will honour <hi>Chriſt,</hi> (as all ought to do) muſt not ob<g ref="char:EOLhyphen"/>ſerve
+it or them, being without <hi>Chriſts</hi> direction. It is an
+honour peculiar to <hi>Jeſus Chriſt,</hi> to preſcribe times, days
+and worſhips, and an high intrenching on his Sovereign
+Authority and Kingly office, to preſcribe days and times,
+therefore what <hi>Chriſt</hi> our <hi>Lord</hi> and <hi>Maſter</hi> doth not com<g ref="char:EOLhyphen"/>mand,
+or allow warrant to do, we may not do, we may not
+obſerve days or times without his appointment and war<g ref="char:EOLhyphen"/>rant,
+but punctually (as neer as we can) keep to his com<g ref="char:EOLhyphen"/>mand,
+<hi>Deut.</hi> 5. 32, 3<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Jerem. 7. 22 Iſaiah</hi> 1. 12. Therefore
+Dr.<note place="margin">Dr. <hi>Fulk.</hi> in an<g ref="char:EOLhyphen"/>ſwer to the <hi>Rhem.</hi> Teſt. on <hi>Luk.</hi> 24. 50.</note> 
+               <hi>Fulk</hi> ſpeaking of the ſigne of croſſe in baptiſme ſaith,
+<hi>It cannot be a memoriall of Chriſts, becauſe Chriſt commanded
+it not,</hi> and ſo may I ſay of this, and all other the like ho<g ref="char:EOLhyphen"/>ly
+days.</p>
+            <p>2 <hi>Becauſe</hi> theſe days have been and are elſewhere to
+this day greatly abuſed to all manner of prophaneneſſe,
+diſſoluetneſſe and ſuperſtition, whereby God hath been
+more diſhonoured on the Chriſtmas dayes, and ſo on all
+other holy dayes alſo, and the Devil more ſerved, than at
+any other time of the year, yea than on all the reſt of the
+year beſide, therefore they are to be aboliſhed, as <hi>Hezeki<g ref="char:EOLhyphen"/>ah</hi>
+did the Brazen Serpent when abuſed to Idolatry, he
+brake it into pieces, and called it <hi>Nehuſtan,</hi> a contempti<g ref="char:EOLhyphen"/>ble
+piece of braſſe, though at firſt ſet up by Gods eſpeci<g ref="char:EOLhyphen"/>all
+command for an excellent end, and did much good,
+2 <hi>Kings 18. 4. Tertullian</hi>
+               <note n="e" place="margin">Tertull. de Corona Milit</note> proves at large in his book <hi>of
+the crown of ſouldiers, that when lawfull things are abuſed by
+Pagans or Idolaters, Chriſtians may not uſe them, unleſſe they
+have Gods warrant for them.</hi> And <hi>Auguſtine</hi> ſhews.<note n="f" place="margin">Aug. <hi>Epiſt.</hi> 86. ad Caſub.</note> 
+               <hi>That
+the Church of Chriſt left off to faſt on the Lords day, becauſe
+the</hi> Manichees <hi>had taken up that day to faſt on.</hi> Alſo <hi>Biſhop
+Jewell,</hi>
+               <note n="g" place="margin">
+                  <hi>Jewels</hi> De<g ref="char:EOLhyphen"/>fence of Apo<g ref="char:EOLhyphen"/>logie, <hi>p.</hi> 441.</note> gives many like examples, yea, and the very
+Popes law<note n="h" place="margin">P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pes Law diſtinct. 63. <hi>Quia Sancta.</hi>
+               </note> reſolveth; <hi>That if our Predeceſſours have done
+things well in their time, and afterward they be turned to er<g ref="char:EOLhyphen"/>rour
+<pb n="19" facs="tcp:115207:11"/>
+or ſuperſtition, they muſt without any delay be reformed:</hi>
+Indeed things neceſſary, though formerly groſly abuſed,
+as houſes, churches, wine, &amp;c. may not therefore be abo<g ref="char:EOLhyphen"/>liſhed
+or laid aſide, but the abuſe removed, as the Popiſh
+abuſes and corruptions in both the Sacraments, &amp;c. but
+things only lawful, unneceſſary, and not commanded of
+God, ought to be aboliſhed when groſly abuſed.</p>
+            <p>
+               <hi>Beſide, let it be alſo remembred,</hi> that many of our Engliſh
+or rather of Romiſh holy dayes were dedicated to
+<hi>Saints,</hi> as the names of the days do witneſſe, as St. <hi>Stephen,</hi>
+St. <hi>John,</hi> St. <hi>Peter,</hi> St. <hi>James, Innocents-day,</hi> &amp;c. which a<g ref="char:EOLhyphen"/>lone
+maketh the retention and obſervation of them ſin<g ref="char:EOLhyphen"/>full
+and Idolatrous.</p>
+            <p>3 <hi>Becauſe</hi> the obſervation of this feaſt, and other holy
+days (ſo called) is now againſt the command of the Su<g ref="char:EOLhyphen"/>pream
+Authority and Magiſtracy, in this Land, as di<g ref="char:EOLhyphen"/>vers
+of the <hi>Ordinances</hi> of both Houſes of Parliament do
+witneſſe, and is wel known. <hi>And doubtleſſe,</hi> we are in conſci<g ref="char:EOLhyphen"/>ence
+bound to obey Authority in all things lawful, and do
+ſin in a wilful diſobeying them. <hi>Rom. 13. 1, 2, 3, 4, 5. 1 Pet.</hi> 2.
+13, 14, 15, and do herein plainly contradict at leaſt in
+practiſe, their proceedings in order to Reformation.</p>
+            <p>4 Becauſe our ſolemn League and Covenant <hi>binds us un<g ref="char:EOLhyphen"/>der
+an oath,</hi> To endeavour the extirpation of Popery, Prelacy,
+Superſtition, Hereſie, Schiſme, Prophaneſſe and whatſoever ſhall
+be found to be contrary to ſound doctrine and the power of God<g ref="char:EOLhyphen"/>lineſſe,
+leaſt we pertake in other mens ſins, &amp;c. <hi>And ſure I
+am the obſervation of theſe Heatheniſh, Popiſh holy days,
+comes under ſome of theſe heads, and ſo under our Cove<g ref="char:EOLhyphen"/>nant
+to reform.</hi>
+            </p>
+            <p>5 <hi>The Jewiſh traditions</hi> of the Elders, as of waſhing
+pots, cups, hands &amp;c. received from their fore-fathers
+without warrant from Gods Word, for the religious ob<g ref="char:EOLhyphen"/>ſervation
+of them, though with good intention, was re<g ref="char:EOLhyphen"/>proved
+and condemned by our Saviour,<note n="i" place="margin">Mark 7. 3, 4, 7, 8, 9.</note> therefore the
+obſervation of theſe alſo is juſtly reproveable,<note place="margin">Matth. 15. 2, 3, 5, 7, 13.</note> being meer
+<pb n="20" facs="tcp:115207:12"/>
+inventions of men, and having been groſly abuſed and pro<g ref="char:EOLhyphen"/>phaned.</p>
+            <p>6 <hi>The Jewiſh ceremoniall dayes,</hi> and obſervations though
+commanded of God himſelf under the law, are now long
+ſince aboliſhed, and unlawfull for Jews (much more for
+Chriſtians under the Goſpel) and as a burthen too heavy
+for their fore-fathers to bear, therefore much more the
+religious obſervation of theſe days, which are onely the
+commandements of men, as unlawfull for us Chriſtians,
+Gentiles.</p>
+            <p>7 <hi>Becauſe</hi> the obſervation of them is a conformity to
+Pagan and Popiſh cuſtomes and practiſes, which a Chri<g ref="char:EOLhyphen"/>ſtian
+ought to abhorre and abominate, and flee from them
+as much as may be, inſtance in leſſer matters than this, the
+cutting off the hair of the head, beard, and the like, though
+otherwiſe lawfull enough, meerly becauſe Idolaters did
+ſo. <hi>Leuit.</hi> 19. 27, 28.</p>
+            <p>8 <hi>Chriſtians are</hi> not bound to rejoyce at the birth of
+<hi>Chriſt,</hi> on that 25 day of December, which many ſuper<g ref="char:EOLhyphen"/>ſtitiouſly
+call <hi>Chriſt-mas day</hi> more than at other times,
+therefore neither to obſerve it more than any other day.</p>
+            <p>9 <hi>The very name,</hi> with which the Pope and Papiſts
+have chriſtened it <hi>Chriſt-mas,</hi> is enough to make all true
+Chriſtians to abhorre the obſervation of it <hi>Chriſt-mas,</hi> be<g ref="char:EOLhyphen"/>cauſe
+the Papiſts had on that day a peculiar <hi>Maſſe</hi> pre<g ref="char:EOLhyphen"/>tendly
+in honour of <hi>Chriſt,</hi> but to his great diſhonour, it
+being a moſt deteſtable <hi>Maſſe of Idolatry,</hi> in divers perti<g ref="char:EOLhyphen"/>culars,
+as theſe Proteſtant Divines writing againſt the Pa<g ref="char:EOLhyphen"/>piſts
+doctrines, do unanimouſly affirm, and ſome have ſet them out<note n="k" place="margin">
+                  <hi>See Dr.</hi> Barns Du Pleſſis. <hi>Biſhop</hi> Jewell. &amp; alios quàm plurimos.</note> perticularly.</p>
+            <p>10 <hi>The 4 Commandement</hi> enjoyns us <hi>to work on the ſix
+days, and keep holy the ſeventh day. Exod.</hi> 20. 8, 9, 10. ſo that
+if we obſerve Gods Commandement, there is no room left
+for holy dayes, dayes of idleneſſe, ſuperſtition, and pro<g ref="char:EOLhyphen"/>phaneneſſe.</p>
+            <p>
+               <hi>Object.</hi> But it may be, ſome will ſay, is there not room
+<pb n="21" facs="tcp:115207:12"/>
+for <hi>Chriſts-day,</hi> and other hoyldayes, as well as for dayes
+of faſting and thankeſgiving?</p>
+            <p>
+               <hi>A.</hi> No, becauſe to faſt on ſome ſpeciall occaſion<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, we
+have not onely an old Teſtament,<note n="l" place="margin">Joel 1. 14, 15. &amp; 2. 12. to 18. Iſa. 58. begin.</note> but alſo a new Teſta<g ref="char:EOLhyphen"/>ment.
+1 A Goſpell approbation. <hi>Mat.</hi> 6. 16, 17, 18. 2 A
+Goſpel command. <hi>Mat.</hi> 9. 15. 3 A Goſpel example. <hi>Acts
+13. 2, 3. So</hi> for dayes of thankſgiving we have ſufficient
+warrant from Gods Word. <hi>Pſal. 50. 14, 15. Exod. 15.
+2 Chron. 20. 26, 27. Heſter</hi> 4. 16. and 9. 17, 18, 19, 20. but
+we have neither Scripture precept, approbation, nor pra<g ref="char:EOLhyphen"/>ctiſe
+for keeping of this nor the other holy days.</p>
+            <p>
+               <hi>Ob.</hi> But ſome have ſaid, Our fathers and fore-fathers
+for many hundred years have obſerved theſe days, eſpe<g ref="char:EOLhyphen"/>cially
+<hi>Chriſtmas, Eaſter</hi> and <hi>Whitſontide,</hi> and the obſerva<g ref="char:EOLhyphen"/>tion
+of them hath been approved by <hi>Parliaments, Councils,</hi>
+and <hi>Synods,</hi> and are now grown wiſer than all thoſe that
+we ſhould now reject them.</p>
+            <p>
+               <hi>A.</hi> I much reverence and honour Parliament Coun<g ref="char:EOLhyphen"/>cils,
+and Synods and forefathers, but they were but men,
+as we are, and did erre fouly, witneſſe the eſtabliſhing of
+Popery, the Maſſe, praying for the dead, praying to Saints,
+Angels, Images, Pictures and the <hi>Croſſe,</hi> yea, and adoring
+and worſhipping of them, and of ſome Saints, Saints
+Bones; cloathes and other Reliques. 2 They lived in
+times of leſſe meanes of knowledge and more ignorance,
+we of more means and knowledge. 3 As godly and lear<g ref="char:EOLhyphen"/>ned
+and wiſe men have in all ages diſallowed and con<g ref="char:EOLhyphen"/>demned
+the obſervation of theſe dayes, as any that allow<g ref="char:EOLhyphen"/>ed,
+approved of them. <hi>And</hi> ſo hath our late Engliſh Aſ<g ref="char:EOLhyphen"/>ſembly
+of Divines and Parliament alſo done, whom (I
+beleeve) are as pious and learned as ever any in any, for<g ref="char:EOLhyphen"/>mer
+age in this Nation. 4 The matter is not who is
+moſt learned, pious, and judicious but which party hath
+Gods Word on their ſide and ſound reaſon, and for this
+let the judicious Reader judge by what I have ſaid, I mag<g ref="char:EOLhyphen"/>nifie
+not my ſelf, but deſire to prefer the wiſedome and
+<pb n="22" facs="tcp:115207:13"/>
+Authority of God before and above all mens whatſoever,
+and ſo far only follow me as I have Gods Word for my
+warrant; <hi>homo ſum, errare poſſum, at haereticus eſſe nolo.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> But is it not meet, that a day ſhould be ſet a part in
+hand of <hi>Chriſt</hi> our <hi>Bleſſed Saviour?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, very fit, but it muſt be only that day which
+himſelfe hath appointed and ſanctified to that end, and
+therefore called it by his own name, to appropriate it to
+himſelfe, <hi>viz: The Lords day, Revel.</hi> 1. 10. and hath
+commanded us <hi>to remember to keep it holy, Ex<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> 20. 8, 9, 10.
+<hi>Remember the Sabboth day to keep it holy,</hi> (is the day of
+reſt,) <hi>the Sabboth of the Lord thy God,</hi> we may not ſet dayes
+a part of our own head and without his minde, <hi>Neither</hi>
+may any impoſe the obſervation of any day for this end,
+leaſt they be found to be Intruders of humane inventions,
+in ſtead of Gods Commandements on the conſciences of
+Gods people, whereof <hi>Chriſt</hi> only is King.</p>
+            <p>
+               <hi>Ob.</hi> But many have religiouſly obſerved theſe dayes in
+preaching, hearing, praying, ſinging, holy conference, &amp;c.
+And have gotten much good thereby,</p>
+            <p>
+               <hi>A.</hi> True, but ten to one have got more hurt and done
+more evil in theſe dayes, than on any other time, contract<g ref="char:EOLhyphen"/>ed
+more guilt, and done <hi>Chriſt</hi> more diſhonour than on
+all other dayes. Beſides, the obſervation of dayes and
+times, without Gods warrant, and greviouſly abuſed to
+ſupperſtition and prophaneſſe, is not lawfull for Chriſtians
+on pretence of ſome good gotten by duties of Gods wor<g ref="char:EOLhyphen"/>ſhip
+on thoſe dayes, which may as well be on any other
+dayes.</p>
+            <p>
+               <hi>Ob.</hi> But ſome ſay ſtill, I ſee no hurt in them, they offend
+not me, I obſerve them out of love and duty to my <hi>Savi<g ref="char:EOLhyphen"/>our,</hi>
+and with a good intention and well meaning, I do no
+hurt to any man, and therefore I hope it is no offence to
+Chriſt.</p>
+            <p>
+               <hi>A.</hi> Good intentions and wel meanings cannot juſtifie
+any unwarrantable practiſe, as good and well meaning
+<pb n="23" facs="tcp:115207:13"/>
+               <hi>
+                  <g ref="char:V">Ʋ</g>zzah</hi> found by wofull experience, 2 <hi>Sam.</hi> 6. 6. The
+action it ſelfe was good, his ayme and end good, and
+the man (ſurely) a good man, yet he died by the immedi<g ref="char:EOLhyphen"/>ate
+hand of God, for touching of the Arke to ſave it
+when the Oxen ſhook it, and it was in danger to be
+broken into pieces, becauſe he had no warrant to touch
+it, being not a <hi>Le vite.</hi>
+            </p>
+            <p>2 Love to God muſt be ſhewed in obeying his com<g ref="char:EOLhyphen"/>mands,
+<hi>Joh. 14. 15, 21. 1 Joh.</hi> 2. 3, 4. and 5, 3. But the ob<g ref="char:EOLhyphen"/>ſervation
+of this feſtivall in honour of <hi>Chriſt</hi> (I thinke)
+hath been clearly proved to be unwarrantable, not of
+<hi>Chriſt</hi>'s appointment, of meer humane inſtitution, and
+therefore no duty to Chriſt, It hath alſo been extreamly
+abuſed to ſuperſtition and prophaneſſe, and is not on the
+day Chriſt was borne, and againſt the command of the
+Magiſtrate, and therefore is ſinfull, offenſive to God and
+men, at leaſt to the moſt godly and judicious knowing
+Chriſtians, ſinfull and dangerous to the ſoul, and if thou
+be convinced that what I have here ſaid is true, then thy
+obſervation of it is a ſin againſt conſcience, a preſumptu<g ref="char:EOLhyphen"/>ous
+ſin, and ſo a dangerous ſin, which, as <hi>David,</hi> ſo all
+good men ſhould carefully watch and pray againſt,
+<hi>Pſal.</hi> 19. 13.</p>
+            <p>
+               <hi>Ob. But the poor complain,</hi> ſaying: This doth put down
+all good houſe keeping and hoſpitality. Many Gentle<g ref="char:EOLhyphen"/>men
+hereby take occaſion to lay aſide all charity, where<g ref="char:EOLhyphen"/>by
+the poor formerly had much relief at their tables and
+doors.</p>
+            <p>
+               <hi>A.</hi> The more is their ſin and ſhame, who make that
+the occaſion to withdraw more than is meet, and a cloak
+for their covetouſneſſe, I here ſpeak not againſt charity,
+but againſt the unwarrantable obſervation of this feſtivall
+and the ſuperſtition, great abuſes and diſorders and pro<g ref="char:EOLhyphen"/>phaneſſe
+of the time. <hi>Rich men</hi> may now with much leſſe
+charge and trouble, be much more beneficiall to the poor,
+<pb n="24" facs="tcp:115207:14"/>
+if they pleaſe, and ought to be free-hearted and free-han<g ref="char:EOLhyphen"/>ded
+to the poor, and to their neighbours. And I earneſt<g ref="char:EOLhyphen"/>ly
+intreat them in the fear of God to conſider theſe Scri<g ref="char:EOLhyphen"/>ptures
+which are exceeding full of preſſing arguments to
+encourage them to charity. <hi>Pro. 11. 25. The liberall ſoul
+ſhall be made fat. Pro. 21. 13. whoſo ſtoppeth his ears at the
+cry of the poor,</hi> (their knowing cryes, vvants and neceſſities,
+though themſelves out of ſhamefac'tneſſe do not cry, <hi>him<g ref="char:EOLhyphen"/>ſelf
+ſhall cry and not be heard. 2 Cor. 9. 6. He that ſoweth ſpa<g ref="char:EOLhyphen"/>ringly,
+ſhall reap ſharingly, but he that ſoweth bountifully ſhall
+reap bountifully.</hi> As full or more full are theſe follovving,
+<hi>Eccleſ. 11. 2. Pro.</hi> 11. 24, 25. and 21. 15, 26, and 22. 9. and
+25. 21. <hi>Mat.</hi> 10. 42, 43, and 19. 21. <hi>Luke 6. 38. Gal. 6. 7, 8, 9,
+10. 1 Tim. 6. 17, 18. Jam.</hi> 5. 1, 2, 3, 4, 5.</p>
+            <p>
+               <hi>Ob.</hi> But then <hi>Servants</hi> and <hi>Touth</hi> ſhall have no time of
+liberty to refreſh themſelves; viſit their friends, and mend
+their apparell.</p>
+            <p>
+               <hi>A.</hi> 1 The <hi>Sabbath</hi> or <hi>Lords day</hi> is a day of reſt from ſer<g ref="char:EOLhyphen"/>vile
+labour appointed by the Lord himſelf, yet may not be
+ſpent any part of it in carnall delights, but wholly in reli<g ref="char:EOLhyphen"/>gious
+exerciſes. 2 Other time I read of none in the Scri<g ref="char:EOLhyphen"/>pture.
+3 I am vvell contented, there ſhould be ſometime
+allowed by the <hi>State</hi> for that end, and if not, ſure I am,
+Maſters and Governours of families ought to allow ſome
+convenient time to their ſervants for ſuch occaſions, and
+do freely do ſo my ſelf.</p>
+            <p>Upon the fore-mentioned grounds, and ſuch like, the
+<hi>Parliament</hi> and <hi>Aſſembly</hi> of <hi>England</hi> and <hi>Scotland</hi> have a<g ref="char:EOLhyphen"/>boliſhed
+and taken away the obſervation of December 25,
+and all other holy days forbidden us to obſerve. <hi>And</hi> I
+hope no truly conſcientious Chriſtian well weighing the
+premiſſes, will any more plead for the obſervation of that,
+or any of thoſe Paganiſh, or Popiſh holy days, nor ob<g ref="char:EOLhyphen"/>ſerve
+them, but rather ſtudy to honour Jeſus Chriſt by
+ſanctifying his Sabboth, ſincere obedience to his Com<g ref="char:EOLhyphen"/>mandements,
+<pb n="25" facs="tcp:115207:14"/>
+living ſoberly, righteouſly and godly in this
+preſent world, and labour to abound in all works of cha<g ref="char:EOLhyphen"/>rity:
+Howſoever, I have diſcharged my duty, and the
+<hi>Lord</hi> make his bleſſing go along vvith his truth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi>
+Printed by <hi>R. L.</hi> for <hi>Richard Wodenothe,</hi> and are to be ſold
+at his ſhop at <hi>Peters</hi> Church in Cornhill, 1651.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
